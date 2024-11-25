@@ -1,5 +1,7 @@
 # Trino Db2 connector [![Actions Status](https://github.com/IBM/trino-db2/workflows/Java%20CI/badge.svg)](https://github.com/IBM/trino-db2/actions)
 
+If you would like to have this updated for the latest trino submit a pull request for it and I will see what I can do to get this up to date. 
+
 This is a plugin for [Trino](https://trino.io/) that allow you to use IBM Db2 Jdbc Connection
 
 Notice that it requires the connected database to be Db2 10 or Db2 LUW 9.7+ or greater versions to meet the precision need of the timestamp data type.
